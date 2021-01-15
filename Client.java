@@ -37,18 +37,4 @@ public class Client {
    }
 }
 
-//  final URI aaa = new URI("https://www.bing.com/videos/search?q=ontario+tech+campus+recreation+sport&&view=detail&mid=944244A9BA59C343A75E944244A9BA59C343A75E&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dontario%2Btech%2Bcampus%2Brecreation%2Bsport%26FORM%3DHDRSC3");
-	    
-	   // play(aaa);
-//	}
-//	public static void play(URI aaa) {
-	//	if )Desktop.isDesktopSupported()) {
-	//		try {
-			//	Desktop.getDesktop().browse(uri);
-			//}
-			
-	//	}catch (IOException e) {
-		//	e.printStackTrace();		
-		//	}
-	
-	
+
